@@ -134,3 +134,4 @@ Attack_Canary/Tiny_CFT_GPT2/model
 CFT_GPT2/model
 DP/SDP_TrainOptim_CFT/model
 Tiny_CFT_GPT2/model
+Raw_GPT2/*
